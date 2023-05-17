@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Ejercicio 1
-        int numeroIf = 0;
+        int numeroIf = 2;
         if (numeroIf > 0) {
             System.out.println("El numero es positivo");
         } else if (numeroIf < 0) {
